@@ -1,7 +1,7 @@
 # Todo App
 
-### Cài đặt package `npm istall`
+### Cài đặt package: `npm istall`
 
-### Khởi chạy server: vào `src\server` và chạy lệnh `node server.js`
+### Khởi chạy server: Vào `src\server` và chạy lệnh `node server.js`
 
-### Khởi chạy `npm start`
+### Khởi chạy: `npm start`
