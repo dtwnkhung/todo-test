@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "50eff519-f6a0-e4ef-f71e-905ee551bc4f",
+      "title": "ăn sáng",
+      "completed": false
+    },
+    {
+      "id": "3b5fa718-10e2-d2ac-4ec9-07d173adbbf3",
+      "title": "đánh răng",
+      "completed": false
+    },
+    {
+      "id": "66860cd2-8165-00c5-4ed9-6be132c17679",
+      "title": "vệ sinh",
+      "completed": false
+    }
+  ]
+}
